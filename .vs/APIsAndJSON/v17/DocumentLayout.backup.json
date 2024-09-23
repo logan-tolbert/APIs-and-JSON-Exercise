@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\logo8\\source\\repos\\TrueCoders\\APIs-and-JSON-Exercise\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\logo8\\source\\repos\\truecoders\\apis-and-json-exercise\\apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\logo8\\source\\repos\\truecoders\\apis-and-json-exercise\\apisandjson\\openweathermapapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\openweathermapapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\logo8\\source\\repos\\truecoders\\apis-and-json-exercise\\apisandjson\\apisandjson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\apisandjson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 224,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIsAndJSON",
+              "DocumentMoniker": "C:\\Users\\logo8\\source\\repos\\TrueCoders\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+              "RelativeDocumentMoniker": "APIsAndJSON\\APIsAndJSON.csproj",
+              "ToolTip": "C:\\Users\\logo8\\source\\repos\\TrueCoders\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+              "RelativeToolTip": "APIsAndJSON\\APIsAndJSON.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T20:40:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logo8\\source\\repos\\TrueCoders\\APIs-and-JSON-Exercise\\APIsAndJSON\\Program.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\Program.cs",
+              "ToolTip": "C:\\Users\\logo8\\source\\repos\\TrueCoders\\APIs-and-JSON-Exercise\\APIsAndJSON\\Program.cs",
+              "RelativeToolTip": "APIsAndJSON\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:40:23.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenWeatherMapAPI.cs",
+              "DocumentMoniker": "C:\\Users\\logo8\\source\\repos\\TrueCoders\\APIs-and-JSON-Exercise\\APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "ToolTip": "C:\\Users\\logo8\\source\\repos\\TrueCoders\\APIs-and-JSON-Exercise\\APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "RelativeToolTip": "APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:26:49.359Z",
+              "EditorCaption": ""
             }
           ]
         }

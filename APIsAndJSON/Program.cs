@@ -7,12 +7,16 @@ namespace APIsAndJSON
         static void Main(string[] args)
         {
             var quoteApi = new RonVSKanyeAPI();
-            bool endProgram = false;
+            var weatherApi = new OpenWeatherMapAPI();
+
+           
+            Console.WriteLine(Environment.NewLine);
 
             Console.WriteLine("  Random Conversations");
             Console.WriteLine("\twith");
             Console.WriteLine("Ron Swanson & Kanye West");
             Console.WriteLine("*-----------------------*");
+
             Console.WriteLine(Environment.NewLine);
 
          
@@ -22,7 +26,14 @@ namespace APIsAndJSON
                     quoteApi.GetRonQuote();
                 }
 
-            
+            Console.WriteLine(Environment.NewLine);
+
+            Console.WriteLine("Current Weather Forecast for Dora,AL");
+            Console.WriteLine("*----------------------------------*");
+            weatherApi.GetCurrentWeather();
+            Console.WriteLine("*----------------------------------*");
+
+
             Console.ReadLine();
            
         }
